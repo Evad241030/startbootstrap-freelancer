@@ -1,0 +1,31 @@
+.navbar {
+	background: #8CC63E;
+} /*top navigation*/
+
+header {
+	background: #404041;
+} /*profile area*/
+
+
+hr.star-light:after {
+    color: #fff;
+    background-color: #404041;
+}
+
+
+section.success {
+	background: #404041;
+}/*About Section
+*/
+
+
+footer .footer-above {
+	background: #8CC63E;
+}
+
+
+footer .footer-below {
+	background: #3B2314;
+}
+
+
