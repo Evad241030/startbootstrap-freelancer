@@ -1,22 +1,24 @@
 .navbar {
-	background: #8CC63E;
+	background: #404041;
 } /*top navigation*/
 
 header {
-	background: #404041;
+	background: #8CC63E;
 } /*profile area*/
 
 
 hr.star-light:after {
     color: #fff;
-    background-color: #404041;
+    background-color: #8CC63E;
 }
 
 
 section.success {
-	background: #404041;
+	background: #8CC63E;
 }/*About Section
 */
+
+
 
 
 footer .footer-above {
@@ -27,5 +29,4 @@ footer .footer-above {
 footer .footer-below {
 	background: #3B2314;
 }
-
 
