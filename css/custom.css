@@ -2,6 +2,25 @@
 	background: #404041;
 } /*top navigation*/
 
+/*.success .brain {
+    padding: 50px;
+}*/
+
+section.success .row {
+    font-size: 20px;
+}
+
+/*header img { 
+    max-width: 10%;  
+    display: block;
+    margin: 0 auto 20px;
+}*/
+
+header img.img-responsive { 
+    max-width: 40%; 
+}
+
+
 header {
 	background: #8CC63E;
 } /*profile area*/
@@ -12,13 +31,27 @@ hr.star-light:after {
     background-color: #8CC63E;
 }
 
+#portfolio p {
+	color: #C0C0C0;
+    text-align: right;
+}
 
 section.success {
 	background: #8CC63E;
 }/*About Section
 */
+/*
+section.success img {
+    border-radius: 50%;
+    max-width: 10%;
+}*/
 
 
+header {
+    text-align: center;
+    color: #fff;
+    background: #8CC63E;
+}
 
 
 footer .footer-above {
@@ -27,6 +60,5 @@ footer .footer-above {
 
 
 footer .footer-below {
-	background: #3B2314;
+	background: #404041;
 }
-
